@@ -1,1 +1,1 @@
-# SPA-ML
+# Single Page Machine Learning Shiny App.
